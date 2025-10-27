@@ -1,0 +1,26 @@
+[project]
+name = "dara-opsc"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "cartopy>=0.25.0",
+    "cbor2>=5.6.5",
+    "fiona>=1.10.1",
+    "folium>=0.12",
+    "geopandas>=1.1.1",
+    "ipyleaflet>=0.20.0",
+    "jupyterlab>=4.4.5",
+    "leafmap>=0.48.6",
+    "mapclassify>=2.8.1",
+    "matplotlib>=3.10.3",
+    "numpy>=2.2.6",
+    "opencv-python>=4.11.0.86",
+    "pandas>=2.3.1",
+    "python-dotenv>=1.1.1",
+    "rasterio>=1.4.3",
+    "scikit-image>=0.25.2",
+    "sgp4>=2.25",
+    "skyfield>=1.53",
+]
