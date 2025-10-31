@@ -1,0 +1,6 @@
+{
+  "canny_low": 87,
+  "canny_high": 172,
+  "cloud_pixels": 694559,
+  "coast_contours_kept": 35
+}
