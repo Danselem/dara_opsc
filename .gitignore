@@ -11,3 +11,5 @@ wheels/
 .DS_Store
 .ipynb_checkpoints
 data/.ipynb_checkpoints
+AVHRR image Georeferencing.ipynb
+notebooks/
