@@ -1,0 +1,48 @@
+{
+    "fusion": {
+        "performed": true,
+        "fused_mean": 127.74932098388672,
+        "difference_mean": -0.009381636045873165
+    },
+    "metrics": {
+        "image_width_px": 909,
+        "image_height_px": 860,
+        "mid_datetime": "2025-07-11T05:46:46.750000+00:00",
+        "mid_subpoint": {
+            "lat_deg": -19.29353525433381,
+            "lon_deg": 57.87016861985247,
+            "alt_km": 852.79286718039
+        },
+        "first_subpoint": {
+            "lat_deg": -6.751092775383366,
+            "lon_deg": 60.85698089118785
+        },
+        "last_subpoint": {
+            "lat_deg": -31.789096873340295,
+            "lon_deg": 54.53467310349489
+        },
+        "corner_top_left": {
+            "lat_deg": -21.330160040661795,
+            "lon_deg": 69.46649740177457
+        },
+        "corner_top_right": {
+            "lat_deg": -16.541784606199847,
+            "lon_deg": 46.60424211567301
+        },
+        "corner_bottom_left": {
+            "lat_deg": -8.744001842682945,
+            "lon_deg": 72.25242665479573
+        },
+        "corner_bottom_right": {
+            "lat_deg": -3.956791225031117,
+            "lon_deg": 49.364509782323324
+        },
+        "along_track_length_km": 2848.79403614439,
+        "along_track_pixel_size_m": 3312.551204819058,
+        "across_track_swath_km": 2463.178614823464,
+        "across_track_pixel_size_m": 2709.767453051116,
+        "total_ground_area_km2": 7017088.547867483,
+        "per_pixel_area_km2": 8.976243441383945,
+        "fov_deg": 110.6
+    }
+}
